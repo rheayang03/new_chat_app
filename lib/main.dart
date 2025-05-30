@@ -1,5 +1,5 @@
-import 'package:chat_app/chat_page.dart';
-import 'package:chat_app/login_page.dart';
+import 'package:new_chat_app/chat_page.dart';
+import 'package:new_chat_app/login_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +11,7 @@ class ChatApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return MaterialApp(
-      title: "Chat App!",
+      title: "Chat App",
       theme: ThemeData(primarySwatch: Colors.yellow),
       //
       home: ChatPage(),
