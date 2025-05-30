@@ -9,7 +9,7 @@ class ChatPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        title: Text('Hii Elton!'),
+        title: Text('HiI Rhea Mae!'),
         actions: [
           IconButton(
             onPressed: () {
